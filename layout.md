@@ -1,0 +1,7 @@
+inputheader_inputtit.tex
+sectionIs_this_the_n.tex
+sectionWhat_about_Me.tex
+sectionWhat_about_HT.tex
+sectionPDF_compariso.tex
+figures/comparing_pdfs/default_figure.png
+There_appear_to_be.tex

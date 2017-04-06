@@ -4,3 +4,4 @@ sectionWhat_about_Me.tex
 sectionWhat_about_HT.tex
 sectionPDF_compariso.tex
 There_appear_to_be.tex
+figures/comparing_pdfs2/comparing_pdfs2.png
